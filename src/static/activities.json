@@ -1,21 +1,5 @@
 [
 {
-"run_id": 12654143244,
-"name": "Evening Walk",
-"distance": 0.0,
-"moving_time": "0:00:00",
-"type": "Hike",
-"start_date": "2023-06-25 11:00:12+00:00",
-"start_date_local": "2023-06-25 19:00:12",
-"location_country": "China",
-"summary_polyline": "",
-"average_heartrate": null,
-"average_speed": 0.0,
-"elevation_gain": 0.0,
-"source": "strava",
-"streak": 1
-},
-{
 "run_id": 12654141381,
 "name": "Lunch Ride",
 "distance": 37130.6,
