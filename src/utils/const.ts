@@ -60,6 +60,11 @@ const CHINESE_LOCATION_INFO_MESSAGE_SECOND = '不要停下来，不要停下探�
 const INFO_MESSAGE = IS_CHINESE ? CHINESE_INFO_MESSAGE : ENGLISH_INFO_MESSAGE;
 const FULL_MARATHON_RUN_TITLE = IS_CHINESE ? '全程马拉松' : 'Full Marathon';
 const HALF_MARATHON_RUN_TITLE = IS_CHINESE ? '半程马拉松' : 'Half Marathon';
+const MORNING_RUN_TITLE = IS_CHINESE ? '清晨跑步' : 'Morning Run';
+const MIDDAY_RUN_TITLE = IS_CHINESE ? '午间跑步' : 'Midday Run';
+const AFTERNOON_RUN_TITLE = IS_CHINESE ? '午后跑步' : 'Afternoon Run';
+const EVENING_RUN_TITLE = IS_CHINESE ? '傍晚跑步' : 'Evening Run';
+const NIGHT_RUN_TITLE = IS_CHINESE ? '夜晚跑步' : 'Night Run';
 const RUN_TITLE = IS_CHINESE ? '跑步' : 'Run';
 const TRAIL_RUN_TITLE = IS_CHINESE ? '越野跑' : 'Trail Run';
 const SWIM_TITLE = IS_CHINESE ? '游泳' : 'Swim';
@@ -115,8 +120,8 @@ export {
 };
 
 const nike = 'rgb(224,237,94)';
-const yellow = 'rgb(237,220,94)';
-const green = 'rgb(2,166,67)';
+const yellow = 'rgb(255,255,0)';
+const green = 'rgb(0,255,0)';
 const pink = 'rgb(237,85,219)';
 const cyan = 'rgb(112,243,255)';
 const IKB = 'rgb(0,47,167)';
@@ -124,12 +129,12 @@ const dark_vanilla = 'rgb(228,212,220)';
 const gold = 'rgb(242,190,69)';
 const purple = 'rgb(154,118,252)';
 const veryPeri = 'rgb(105,106,173)';//长春花蓝
-const red = 'rgb(232,0,0)';//大红色
+const red = 'rgb(255,0,0)';//大红色
 
 // If your map has an offset please change this line
 // issues #92 and #198
 export const NEED_FIX_MAP = false;
-export const MAIN_COLOR = '#d0d5d6';
+export const MAIN_COLOR = '#1a1a1a';
 export const RUN_COLOR = yellow;
 export const RIDE_COLOR = red;
 export const VIRTUAL_RIDE_COLOR = veryPeri;
