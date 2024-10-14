@@ -65,11 +65,13 @@ const MIDDAY_RUN_TITLE = IS_CHINESE ? '午间跑步' : 'Midday Run';
 const AFTERNOON_RUN_TITLE = IS_CHINESE ? '午后跑步' : 'Afternoon Run';
 const EVENING_RUN_TITLE = IS_CHINESE ? '傍晚跑步' : 'Evening Run';
 const NIGHT_RUN_TITLE = IS_CHINESE ? '夜晚跑步' : 'Night Run';
-const MORNING_Ride_TITLE = IS_CHINESE ? '清晨骑行' : 'Morning Run';
-const MIDDAY_Ride_TITLE = IS_CHINESE ? '午间骑行' : 'Midday Run';
-const AFTERNOON_Ride_TITLE = IS_CHINESE ? '午后骑行' : 'Afternoon Run';
-const EVENING_Ride_TITLE = IS_CHINESE ? '傍晚骑行' : 'Evening Run';
-const NIGHT_Ride_TITLE = IS_CHINESE ? '夜晚骑行' : 'Night Run';
+
+const Morning_Ride_TITLE = IS_CHINESE ? '清晨骑行' : 'Morning Run';
+const Midday_Ride_TITLE = IS_CHINESE ? '午间骑行' : 'Midday Run';
+const Afternoon_Ride_TITLE = IS_CHINESE ? '午后骑行' : 'Afternoon Run';
+const Evening_Ride_TITLE = IS_CHINESE ? '傍晚骑行' : 'Evening Run';
+const Night_Ride_TITLE = IS_CHINESE ? '夜晚骑行' : 'Night Run';
+
 const RUN_TITLE = IS_CHINESE ? '跑步' : 'Run';
 const TRAIL_RUN_TITLE = IS_CHINESE ? '越野跑' : 'Trail Run';
 const SWIM_TITLE = IS_CHINESE ? '游泳' : 'Swim';
