@@ -93,11 +93,11 @@ const RUN_TITLES = {
   RUN_TITLE,
   TRAIL_RUN_TITLE,
 
-  Morning_Ride_TITLE
-  Midday_Ride_TITLE
-  Afternoon_Ride_TITLE
-  Evening_Ride_TITLE
-  Night_Ride_TITLE
+  Morning_Ride_TITLE,
+  Midday_Ride_TITLE,
+  Afternoon_Ride_TITLE,
+  Evening_Ride_TITLE,
+  Night_Ride_TITLE,
 
   RIDE_TITLE,
   INDOOR_RIDE_TITLE,
