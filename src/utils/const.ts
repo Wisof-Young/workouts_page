@@ -115,8 +115,8 @@ export {
 };
 
 const nike = 'rgb(224,237,94)';
-const yellow = 'rgb(224,237,94)';
-const green = 'rgb(0,237,94)';
+const yellow = 'rgb(237,220,94)';
+const green = 'rgb(2,166,67)';
 const pink = 'rgb(237,85,219)';
 const cyan = 'rgb(112,243,255)';
 const IKB = 'rgb(0,47,167)';
@@ -124,16 +124,16 @@ const dark_vanilla = 'rgb(228,212,220)';
 const gold = 'rgb(242,190,69)';
 const purple = 'rgb(154,118,252)';
 const veryPeri = 'rgb(105,106,173)';//长春花蓝
-const red = 'rgb(255,0,0)';//大红色
+const red = 'rgb(232,0,0)';//大红色
 
 // If your map has an offset please change this line
 // issues #92 and #198
 export const NEED_FIX_MAP = false;
-export const MAIN_COLOR = green;
+export const MAIN_COLOR = '#d0d5d6';
 export const RUN_COLOR = yellow;
-export const RIDE_COLOR = green;
+export const RIDE_COLOR = red;
 export const VIRTUAL_RIDE_COLOR = veryPeri;
-export const HIKE_COLOR = pink;
+export const HIKE_COLOR = green;
 export const SWIM_COLOR = gold;
 export const ROWING_COLOR = cyan;
 export const ROAD_TRIP_COLOR = purple;

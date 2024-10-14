@@ -11,15 +11,15 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workouts Map',
-  siteUrl: 'https://ben29.xyz',
-  logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
-  description: 'Personal site and blog',
-  keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
+  siteTitle: '🚵‍♂️Les entraînements de SAM0TA',
+  siteUrl: 'https://note.oceanum.top/',
+  logo: 'https://avatars.githubusercontent.com/u/96814993?s=400&u=7da8db7a41d066feca9dc0de575ff84a945651a4&v=4',
+  description: '',
+  keywords: '',
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://ben29.xyz',
+      url: 'https://blog.oceanum.top',
     },
     {
       name: 'About',
