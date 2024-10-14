@@ -93,6 +93,12 @@ const RUN_TITLES = {
   RUN_TITLE,
   TRAIL_RUN_TITLE,
 
+  Morning_Ride_TITLE
+  Midday_Ride_TITLE
+  Afternoon_Ride_TITLE
+  Evening_Ride_TITLE
+  Night_Ride_TITLE
+
   RIDE_TITLE,
   INDOOR_RIDE_TITLE,
   VIRTUAL_RIDE_TITLE,
@@ -141,7 +147,7 @@ const red = 'rgb(255,0,0)';//大红色
 // If your map has an offset please change this line
 // issues #92 and #198
 export const NEED_FIX_MAP = false;
-export const MAIN_COLOR = '#1a1a1a';
+export const MAIN_COLOR = '#d0d5d6';
 export const RUN_COLOR = yellow;
 export const RIDE_COLOR = red;
 export const VIRTUAL_RIDE_COLOR = veryPeri;
