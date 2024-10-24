@@ -606,5 +606,37 @@
 "elevation_gain": 37.7,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12722031671,
+"name": "Morning Ride",
+"distance": 3520.6,
+"moving_time": "0:15:13",
+"type": "Ride",
+"start_date": "2024-10-23 00:30:59+00:00",
+"start_date_local": "2024-10-23 08:30:59",
+"location_country": "\u4e8c\u73af\u8def\u5317\u4e09\u6bb5, \u9a77\u9a6c\u6865\u8857\u9053, \u91d1\u725b\u533a, \u6210\u90fd\u5e02, \u9526\u6c5f\u533a, \u56db\u5ddd\u7701, 610081, \u4e2d\u56fd",
+"summary_polyline": "whjzDw{gzREl@Qf@?CGAa@b@M`@BVCTGFQb@GXKZW\\]n@Wn@Gn@A`@@PCd@Yl@SVCLSVI^Df@DL?PC?Md@CBKBo@DFzAHt@WHc@F[LM@SNOFQ@KB_@?UUOQYS[Jm@E?FHFJ@`@?HAFBz@EJB^@\\CTBPENFXFRAPd@P@XN`@p@Pp@Dv@EXFBJCHNCLIJUDqA@kBA[B}@C}B?g@FeA@UMeDTi@EkABSCq@Ba@Aa@Gs@?{ALiAf@iBlAsAv@_@\\q@b@i@f@m@XQDg@\\I@SZOPqBlAmBrAq@b@qAdAgAr@UTkAn@YH[?UHMJ]`@e@b@yA|@y@l@KAoCf@_Cv@m@Hc@BoA@i@Do@GwAAiAGa@?oDS_@?",
+"average_heartrate": 119.6,
+"average_speed": 3.856,
+"elevation_gain": 9.9,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12722031715,
+"name": "Morning Run",
+"distance": 4660.2,
+"moving_time": "0:40:41",
+"type": "Run",
+"start_date": "2024-10-23 00:47:52+00:00",
+"start_date_local": "2024-10-23 08:47:52",
+"location_country": "\u516b\u91cc\u6865\u8def, \u4fe1\u79be\u4eba\u5bb6, \u53cc\u6c34\u78be\u8857\u9053, \u6210\u534e\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610081, \u4e2d\u56fd",
+"summary_polyline": "s~mzDg{ezRh@c@ZOf@Bf@NL?RGR@f@E\\OJUPKZc@n@q@LSLKBSBBJMv@iAXu@Ps@`@iAHk@Lk@?u@Hk@Ao@Hq@I_BHW@k@E]?k@@c@AmA@w@FYB[?]KwAGMOaAF]Ce@QcAGo@Ia@AQGSAk@WiBAe@Bw@HWP[\\qAHKP}@@OLg@JoAVoC?a@CGXcEAg@LyADaBFYBq@DU@]HUHk@Ji@NYDa@Tg@J]Dq@D[Va@FYBWTg@DYBYFMHYPsAJ[He@n@mBHg@LMDADD@G@@?e@L[BQVi@BSDIJGL]RiAPWJKDAN@`@TZr@AATN\\BHFRXTPLT^LJPD@BHVFTR^T\\\\FJRFTTXT^L\\PfAZ`Ab@XH`@TLN@`@LLd@Nj@AB@NNF??BCAVJJ@PAH@`@Nh@Vj@P^TN?d@Jn@\\J@FMDE\\KHYNYFQT]?KBKJWV]?G~A\\dAp@JJTLNNb@Pj@h@hBlAr@ZLJLBnAt@PBBBNId@ZLEH@FCDBBABLAHdBrB`Ar@lAj@vAz@|@`@dAp@TR",
+"average_heartrate": 159.7,
+"average_speed": 1.909,
+"elevation_gain": 19.9,
+"source": "strava",
+"streak": 1
 }
 ]
