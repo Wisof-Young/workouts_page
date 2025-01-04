@@ -958,5 +958,21 @@
 "elevation_gain": 15.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13259511555,
+"name": "Morning Run",
+"distance": 5053.2,
+"moving_time": "0:33:03",
+"type": "Run",
+"start_date": "2025-01-03 23:56:07+00:00",
+"start_date_local": "2025-01-04 07:56:07",
+"location_country": "\u4e8c\u73af\u8def\u5317\u4e09\u6bb5, \u9ad8\u7b0b\u5858\u793e\u533a, \u9a77\u9a6c\u6865\u8857\u9053, \u91d1\u725b\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610084, \u4e2d\u56fd",
+"summary_polyline": "g~izDyqhzRFQD_@N_@R}AN_@JU@IEKMMEAWDc@MWa@e@a@]m@Mw@GSGq@?KGMg@MG?GDSOUIWEq@AgA_@W?OZGp@[n@Qr@OtAk@PO@IJSHUPOEMOiAo@KUMo@Fg@ASBs@AMBgCDMPQvAIp@[PQR[l@QRAt@?`@Lt@HNFN?l@DXLZFH@VGd@FX?XNTRd@t@Lb@Ll@@l@Tr@HJl@`@^PXFHNBN?RI\\o@tAORI?{@S[QQEOKYg@GMOGKCECYu@GUO[IeAMSGCK@a@MMBGEiAKIEQASDm@?QLK`@MR@JQ~@Mb@Id@Sh@UX[j@o@i@UGYS]GSQISCO?o@BcAC_@DwAEOA{@HUNK\\CLEX?TEdAa@TUPATKX@t@Cd@BTJvBLj@PjALb@Xh@h@Rh@NlAV|@X^HB~@~@NPFLATIVOb@g@dAO?e@MIGOEWUQKKQYk@Ea@U[S{@AOIUE{@EGUE]CSEgAC]Iy@Ia@IODGHeArD?DMXEXU\\M`@IHQ?SHk@_@s@YQMIc@?WC[?i@B[?}@BQDcBN[FEP?LE^@REZMn@m@d@Sr@GXAXHf@@RHbAHZNPBRJH@DCXDP@NFTBNF",
+"average_heartrate": 164.6,
+"average_speed": 2.548,
+"elevation_gain": 15.1,
+"source": "strava",
+"streak": 2
 }
 ]
