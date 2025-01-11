@@ -1038,5 +1038,37 @@
 "elevation_gain": 5.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 13324146912,
+"name": "Afternoon Hike",
+"distance": 1753.2,
+"moving_time": "0:26:59",
+"type": "Hike",
+"start_date": "2025-01-11 06:54:32+00:00",
+"start_date_local": "2025-01-11 14:54:32",
+"location_country": "\u5929\u5e9c\u65b0\u533a, \u53cc\u6d41\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, \u4e2d\u56fd",
+"summary_polyline": "ojqxDatezRPGf@GvA?PD\\Cd@BTGL?VFLABC?@BADDd@BTAVDRAZBl@E`@INFN?JIDATDdB@FBjAEj@BVCf@@PCx@BFCFBR@n@?PCLINEZS`Ay@R_@FSHKXw@@IC?LMHODK@ULa@T]DONWVU~@e@HYR_@JMN?XFR?HIPSDYVS",
+"average_heartrate": 96.3,
+"average_speed": 1.083,
+"elevation_gain": 28.0,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 13324147281,
+"name": "Afternoon Hike",
+"distance": 3295.2,
+"moving_time": "0:51:31",
+"type": "Hike",
+"start_date": "2025-01-11 08:21:31+00:00",
+"start_date_local": "2025-01-11 16:21:31",
+"location_country": "\u5174\u9686\u6e565\u53f7\u6865, \u5929\u5e9c\u65b0\u533a, \u53cc\u6d41\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, \u4e2d\u56fd",
+"summary_polyline": "_}oxDy_gzRNKXc@To@?GDO?k@DMHs@AWESHI\\uATg@BK~BaFVcAB]RcABUA{AIm@ASFc@?y@AO?q@BEE@Dv@Cx@FfCAZ@@CLAbAI\\A`@KTGHQt@AHMR[v@IFAC?Fy@lAWf@M`@EX@BUj@EXOlCQ~@IP@?FHB?IACGDFBCE@AAAB?BD?KDBIKLUf@u@f@ADI@EI@BOLw@`@s@t@ELIZGx@?tAEn@Bh@AN?LExADj@HX?LGJLTB?GZHn@F~@DR@`AH^AAHVBRDJJDRH\\?BCTEPMh@MPALGb@AX@JFJ?z@OVOLOXk@J]DCVCH?@FELGb@g@hC@PEzBF`@`@HHH\\^Hj@@G@HGd@BLER?d@?VDHIb@DBMBAHAVDPCL",
+"average_heartrate": 95.3,
+"average_speed": 1.066,
+"elevation_gain": 19.0,
+"source": "strava",
+"streak": 3
 }
 ]
