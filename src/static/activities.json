@@ -1326,5 +1326,37 @@
 "elevation_gain": 3.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13561790143,
+"name": "Morning Walk",
+"distance": 1498.1,
+"moving_time": "0:40:49",
+"type": "Hike",
+"start_date": "2025-02-07 01:41:23+00:00",
+"start_date_local": "2025-02-07 09:41:23",
+"location_country": "\u5357\u6cc9\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u5e02, \u4e2d\u56fd",
+"summary_polyline": "ujqrDwcoiSBF?PBA@GAHADCA?@DAJSN@FADNAAL?JC\\LCBTJFNJDA@BBBAHDDDC@DHRLFVRT@F@ALLJNH@FEF@FIDAXF?DNCP@FBBD?@E@@BDC?ABDVDP@TEP@RFR?HD?BAALB@DAFQ^?B@ACJW\\MHOE@C@REDKGAELJDNEKROLCLHF@VAXEPKRYPEACDK",
+"average_heartrate": 121.6,
+"average_speed": 0.612,
+"elevation_gain": 235.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 13561790387,
+"name": "Lunch Hike",
+"distance": 990.7,
+"moving_time": "0:27:18",
+"type": "Hike",
+"start_date": "2025-02-07 03:00:14+00:00",
+"start_date_local": "2025-02-07 11:00:14",
+"location_country": "\u5357\u6cc9\u8def, \u5357\u6cc9\u8857\u9053, \u5df4\u5357\u533a, \u91cd\u5e86\u5e02, \u4e2d\u56fd",
+"summary_polyline": "myprD}}niSk@Fm@BMDSBMDQBw@BWD_@@OD[@",
+"average_heartrate": 99.7,
+"average_speed": 0.605,
+"elevation_gain": 52.0,
+"source": "strava",
+"streak": 1
 }
 ]
