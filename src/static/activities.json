@@ -1582,5 +1582,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13777360291,
+"name": "Evening Run",
+"distance": 582.1,
+"moving_time": "0:04:41",
+"type": "Run",
+"start_date": "2025-03-03 10:56:26+00:00",
+"start_date_local": "2025-03-03 18:56:26",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 149.1,
+"average_speed": 2.072,
+"elevation_gain": 3.0,
+"source": "strava",
+"streak": 1
 }
 ]
