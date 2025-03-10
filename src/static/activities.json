@@ -1614,5 +1614,37 @@
 "elevation_gain": 4.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13833969894,
+"name": "Lunch Ride",
+"distance": 2036.2,
+"moving_time": "0:08:49",
+"type": "Ride",
+"start_date": "2025-03-09 04:21:45+00:00",
+"start_date_local": "2025-03-09 12:21:45",
+"location_country": "\u5317\u7ad9\u4e1c\u4e00\u8def, \u8377\u82b1\u6c60\u793e\u533a, \u8377\u82b1\u6c60\u8857\u9053, \u91d1\u725b\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610084, \u4e2d\u56fd",
+"summary_polyline": "akizDc_fzRgDBiAFq@GaDCoAKsDB_BKgAHa@@eACu@@a@DOA[YCQFi@F}@HSBc@?cAAm@IW@YCWBWG{@@cDDaACuDByBGu@?]CGBuCFiDH]Rq@WC]CUM?EHm@v@kCn@gBPa@Jg@n@aB",
+"average_heartrate": 126.0,
+"average_speed": 3.849,
+"elevation_gain": 3.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 13839271138,
+"name": "Morning Ride",
+"distance": 2618.6,
+"moving_time": "0:09:27",
+"type": "Ride",
+"start_date": "2025-03-10 00:06:17+00:00",
+"start_date_local": "2025-03-10 08:06:17",
+"location_country": "\u4e8c\u73af\u8def\u5317\u4e09\u6bb5, \u9ad8\u7b0b\u5858\u793e\u533a, \u9a77\u9a6c\u6865\u8857\u9053, \u91d1\u725b\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610084, \u4e2d\u56fd",
+"summary_polyline": "mvizDshhzRZ\\bCxAVHrAp@tDbC|JtFrD~B\\HXRh@TfAr@`FpCv@l@z@h@~BtA`Ab@hDtB`BhA~FbDpAx@AAD@l@Xr@^vBzAlFvCzGdErCjBp@VrAx@VRFRDFl@ZDF",
+"average_heartrate": 148.6,
+"average_speed": 4.618,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 2
 }
 ]
