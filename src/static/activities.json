@@ -2670,5 +2670,21 @@
 "elevation_gain": 1.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15044002041,
+"name": "Evening Ride",
+"distance": 5303.7,
+"moving_time": "0:17:34",
+"type": "Ride",
+"start_date": "2025-07-08 10:11:25+00:00",
+"start_date_local": "2025-07-08 18:11:25",
+"location_country": "\u85e9\u5e93\u8857, \u7389\u9526\u82d1, \u4e66\u9662\u8857\u8857\u9053, \u9526\u6c5f\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610017, \u4e2d\u56fd",
+"summary_polyline": "mvczDeigzR{@_@uCeByAk@q@e@wBgA_CwA}CcBSGWWIWMGk@Ua@GYK_CsA}@c@cA_@iAo@u@i@eBcAq@Qe@_@wAq@aE_CmDiBaAm@cAg@UOAEkAe@QSq@_@_@[a@a@YQWYUMq@i@q@k@aD{By@w@iAs@[W[QW]sBcBqAy@e@[a@a@E?aAq@YO_Au@EGGC[]m@[_@_@}@q@k@g@oCsBcCaBgA}@aAm@iA{@g@e@{@i@gByAaD}B{@i@cAy@g@g@c@WiAw@e@WMM{@k@uCaCoAy@c@a@eAg@MKSWSMMMES@_@EOe@FY^IPAJ?EETCF?LHPMh@IlAK`Aa@jAeBnEm@fBg@v@[z@g@~@}ApDQd@Kb@IZg@`AY~@KPQh@]jA{@~ACb@Q\\w@rBQv@c@|@i@|@[l@q@xAWp@m@zBWr@c@z@SJKJIPQL",
+"average_heartrate": 119.3,
+"average_speed": 5.032,
+"elevation_gain": 5.0,
+"source": "strava",
+"streak": 1
 }
 ]
