@@ -2878,5 +2878,21 @@
 "elevation_gain": 5.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 15182407889,
+"name": "Afternoon Ride",
+"distance": 2294.2,
+"moving_time": "0:08:40",
+"type": "Ride",
+"start_date": "2025-07-20 09:51:35+00:00",
+"start_date_local": "2025-07-20 17:51:35",
+"location_country": "\u4e00\u73af\u8def\u5317\u4e09\u6bb5, \u8377\u82b1\u6c60\u793e\u533a, \u8377\u82b1\u6c60\u8857\u9053, \u91d1\u725b\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610084, \u4e2d\u56fd",
+"summary_polyline": "_ohzDybfzRh@sBf@yC^}@\\sAL[`@uAR_APm@RgAj@sBf@wAj@cCLULMRIJS@UEQGEEM_Bu@c@[uAo@iC}AmE_CYS?CHEECK?]MUQo@_@YKe@W}@k@m@UWM]WeAk@kCaBYM_@UY[SQo@]i@OUOs@[eAo@sBcA_C{Ai@c@",
+"average_heartrate": 110.9,
+"average_speed": 4.412,
+"elevation_gain": 3.0,
+"source": "strava",
+"streak": 2
 }
 ]
