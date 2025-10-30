@@ -4304,6 +4304,22 @@
 "streak": 1
 },
 {
+"run_id": 16297784871,
+"name": "Evening Ride",
+"distance": 3552.0,
+"moving_time": "0:12:52",
+"type": "Ride",
+"start_date": "2025-10-21 11:55:03+00:00",
+"start_date_local": "2025-10-21 19:55:03",
+"location_country": "\u897f\u4f53\u5317\u8def, \u9a6c\u5bb6\u82b1\u56ed\u793e\u533a, \u897f\u5b89\u8def\u8857\u9053, \u91d1\u725b\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610084, \u4e2d\u56fd",
+"summary_polyline": "yxhzDa_czRAoAHeDE_CJoDCyIPi@Cg@Ka@@aBAoA@_BAkDB{@CwA@m@F_@@WB{DAq@@{@@g@D_@@i@CeDHo@IeB`@oA^gBnAuEJM@[n@uBbBwGTkATo@Hm@VeATq@x@}CJe@B[Pc@XoAbBuFHi@TcADGVEHIBUJ]@SGM{Ag@sAcAeFcCwAy@iAs@UMUEOIKMq@a@UQwCcBqCyASSMCSQmAs@i@WMI]a@o@a@QI[GME{@i@]Ou@c@s@]eAq@",
+"average_heartrate": 99.6,
+"average_speed": 4.601,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 2
+},
+{
 "run_id": 16217570830,
 "name": "Morning Run",
 "distance": 5101.9,
@@ -4317,7 +4333,7 @@
 "average_speed": 2.251,
 "elevation_gain": 5.0,
 "source": "strava",
-"streak": 1
+"streak": 3
 },
 {
 "run_id": 16246817436,
@@ -4333,7 +4349,7 @@
 "average_speed": 3.433,
 "elevation_gain": 3.0,
 "source": "strava",
-"streak": 2
+"streak": 4
 },
 {
 "run_id": 16246817435,
@@ -4349,6 +4365,6 @@
 "average_speed": 4.139,
 "elevation_gain": 6.0,
 "source": "strava",
-"streak": 3
+"streak": 5
 }
 ]
