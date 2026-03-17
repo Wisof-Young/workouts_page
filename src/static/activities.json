@@ -4814,5 +4814,21 @@
 "elevation_gain": 10.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17748164239,
+"name": "Evening Ride",
+"distance": 3741.5,
+"moving_time": "0:13:50",
+"type": "Ride",
+"start_date": "2026-03-16 10:06:11+00:00",
+"start_date_local": "2026-03-16 18:06:11",
+"location_country": "\u897f\u4f53\u5317\u8def, \u9a6c\u5bb6\u82b1\u56ed\u793e\u533a, \u897f\u5b89\u8def\u8857\u9053, \u91d1\u725b\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610084, \u4e2d\u56fd",
+"summary_polyline": "sxhzDo_czRDqB@}BCkDDaCIgI@k@EJG@YCGKM@GDCCB?E?LBO[]MiCMmEE{EA}@B{@Ay@BcACiF@mCAc@EyEGiBG]@QIY]GOByAGkADs@EsA?aGDg@?oANqA@mB@}AIwA@iCRaAAKCCBaBQm@?c@B_@Eo@FqAK_DBmBFoBSAZs@Aq@Bg@Po@FcACyDKcC@MFSA_@D[Qy@BeAI{CEyCJkHNaB@IBAYs@CSD]C_@Dg@FQl@_B~@wB\\aA",
+"average_heartrate": 116.7,
+"average_speed": 4.508,
+"elevation_gain": 2.0,
+"source": "strava",
+"streak": 1
 }
 ]
