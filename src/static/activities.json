@@ -4910,5 +4910,21 @@
 "elevation_gain": 9.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17956006108,
+"name": "Morning Run",
+"distance": 5034.4,
+"moving_time": "0:33:45",
+"type": "Run",
+"start_date": "2026-04-02 23:12:12+00:00",
+"start_date_local": "2026-04-03 07:12:12",
+"location_country": "\u4e03\u91cc\u6c9f\u793e\u533a, \u8521\u6865\u8857\u9053, \u9752\u7f8a\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610045, \u4e2d\u56fd",
+"summary_polyline": "ksezDcylyRKl@?ROvAIVKj@Qb@WtBGJ@JETLR?TKr@Wj@I`@Cb@FT@b@Id@U\\?JFXC\\KVGV@H?HMRKd@En@E\\I^SrAM`@c@~Cm@~AMf@c@fACLIHM@aBSUEG@AFDXC\\WjAIn@Kd@Op@EFgA\\MAaBVc@Le@VYHgAHs@HeAHs@HI?}@L[@]JWAkANk@B[D_@@]F_@@YBE?MK_@Qe@Go@OqAS[IsB]iBLaBRmAFi@HeAHc@Cc@Si@HKA@I^St@YlCKtCWhCOv@Kp@Sv@c@n@i@`@k@d@u@^c@fAgBp@_AXSRIb@Gd@@l@PXTl@n@t@l@x@b@XDL@LCbBeCHKHAL@r@RdARp@FZH~ARr@LdAJx@@NDl@BRFBCTw@lAkDViBR{@^_CHc@Bi@Jc@NwARYFg@P{@F[CIc@QCODk@J_@Da@Ng@Fk@Pu@@OAEGIUGOI}AW}@{@w@cA?CXe@FG",
+"average_heartrate": 153.2,
+"average_speed": 2.486,
+"elevation_gain": 8.0,
+"source": "strava",
+"streak": 1
 }
 ]
