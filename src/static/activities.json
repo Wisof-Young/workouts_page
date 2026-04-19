@@ -5054,5 +5054,21 @@
 "elevation_gain": 260.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18159018575,
+"name": "Afternoon Hike",
+"distance": 18207.3,
+"moving_time": "0:51:50",
+"type": "Hike",
+"start_date": "2026-04-18 11:58:05+00:00",
+"start_date_local": "2026-04-18 17:58:05",
+"location_country": "\u6808\u9053, \u679c\u5b50\u6c9f\u7267\u573a, \u535a\u4e50\u5e02, \u535a\u5c14\u5854\u62c9\u8499\u53e4\u81ea\u6cbb\u5dde, \u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a, \u4e2d\u56fd",
+"summary_polyline": "ezrnGmxfnNCSYSM?QLLZ@COWOZ@FDDEB@?CEGCVg@DSJ_B@GbDaHxC}Fv@sBVaBFeA?gA\\}GLq@JUbBgGd@oBn@gDnAcE`@y@F_@Co@BUNYz@kA~IcJnAuAhAoB\\u@`BgEjAoCNo@t@iC~@mDXcB^uCRgCDkABgGJmEv@aIXmDV_CZqDJ_An@sD|AyLgJ}JBs@MoBUaGAcA@gCHkA`@sCJkAHoA@oAOwFq@wROaEW_DOmAq@aEcAoEm@uBeBgHuAmGO{@M{@o@mG]aEeAmKy@mHwAcLuA{N}AuNScCWgFGs@sRg@qAeEs@mB[c@o@oAD@A@FF^~@bAxC@\\Lb@Lv@l@vAAZGKA@@FLd@FV?LDFAHRUFEDIg@aBgBkFAGMWw@wBO]?CA?M}@Mc@iPob@qCqHaAsCkAwD{@_DwA_GmFmUwG_YaCgKkC}J{DsLyEiN{D_LiDiJqCqIcFwNeKgZkA}DiAwE{@wEm@}DmEc]gDuXy@cG[eB_@yAiB_JiA}EuBaLcBmIUcAkAoESeBt@mBDo@IkAYiBK_A`@_A`@c@JGAOAAAD@?CkAkAoK{CcW}AuNkAiL]cDq@}EoLej@qXkoAWsA]gCqDsa@MmBIiC?yDDuAFw@ViC`AyGTeBFcALkCBoBA{CMqBYwCS}Am@wCSy@y@cCMUYW??B?Ch@[jC@d@BHIr@S^UNQBCBEL@FG]@@FOKe@Ek@Om@GGu@Eu@XUXB?f@a@h@]JC",
+"average_heartrate": 87.2,
+"average_speed": 5.854,
+"elevation_gain": 118.0,
+"source": "strava",
+"streak": 2
 }
 ]
